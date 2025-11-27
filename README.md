@@ -68,8 +68,8 @@ This project analyzes the **World Happiness Report (2015–2024)** to understand
 
 ## 🗂️ Dashboard Pages
 
-https://github.com/mai-zayan/World-Happiness-2014-2025-Analysis/blob/main/1.png
-https://github.com/mai-zayan/World-Happiness-2014-2025-Analysis/blob/main/2.png
+1.png
+2.png
 https://github.com/mai-zayan/World-Happiness-2014-2025-Analysis/blob/main/3.png
 https://github.com/mai-zayan/World-Happiness-2014-2025-Analysis/blob/main/4.png
 https://github.com/mai-zayan/World-Happiness-2014-2025-Analysis/blob/main/5.png
