@@ -68,13 +68,15 @@ This project analyzes the **World Happiness Report (2015–2024)** to understand
 
 ## 🗂️ Dashboard Pages
 
-1.png
-2.png
-https://github.com/mai-zayan/World-Happiness-2014-2025-Analysis/blob/main/3.png
-https://github.com/mai-zayan/World-Happiness-2014-2025-Analysis/blob/main/4.png
-https://github.com/mai-zayan/World-Happiness-2014-2025-Analysis/blob/main/5.png
-https://github.com/mai-zayan/World-Happiness-2014-2025-Analysis/blob/main/6.png
-https://github.com/mai-zayan/World-Happiness-2014-2025-Analysis/blob/main/7.png
+<img width="1450" height="817" alt="image" src="https://github.com/user-attachments/assets/4cee0088-360d-4e5f-8aeb-dcd4cd27f7a4" />
+<img width="1456" height="814" alt="image" src="https://github.com/user-attachments/assets/3cd058f5-61c2-4b5c-8c00-6363893915af" />
+<img width="1450" height="817" alt="image" src="https://github.com/user-attachments/assets/ba7d76de-a0fa-4a01-b99a-b00a46c8996e" />
+<img width="1455" height="816" alt="image" src="https://github.com/user-attachments/assets/a10dc70b-5e48-4f6a-95a6-4ecdfd11fc96" />
+<img width="1450" height="814" alt="image" src="https://github.com/user-attachments/assets/60381e58-6391-4f76-82f1-5754b1606cef" />
+<img width="1453" height="820" alt="image" src="https://github.com/user-attachments/assets/e6f5324c-b09c-47d4-ac35-5f23f46e9609" />
+<img width="1456" height="814" alt="image" src="https://github.com/user-attachments/assets/415fa65e-ee81-4e86-89b6-a0abc5aee1f0" />
+
+
 
 ---
 
