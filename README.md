@@ -68,12 +68,13 @@ This project analyzes the **World Happiness Report (2015–2024)** to understand
 
 ## 🗂️ Dashboard Pages
 
-1️⃣ **World Happiness Overview**  
-2️⃣ **Country Happiness Insights**  
-3️⃣ **Regional Happiness Insights**  
-4️⃣ **Factor Influence** (What drives happiness?)  
-5️⃣ **Egypt Happiness Insights**  
-6️⃣ **Final Insights & Key Takeaways**
+https://github.com/mai-zayan/World-Happiness-2014-2025-Analysis/blob/main/1.png
+https://github.com/mai-zayan/World-Happiness-2014-2025-Analysis/blob/main/2.png
+https://github.com/mai-zayan/World-Happiness-2014-2025-Analysis/blob/main/3.png
+https://github.com/mai-zayan/World-Happiness-2014-2025-Analysis/blob/main/4.png
+https://github.com/mai-zayan/World-Happiness-2014-2025-Analysis/blob/main/5.png
+https://github.com/mai-zayan/World-Happiness-2014-2025-Analysis/blob/main/6.png
+https://github.com/mai-zayan/World-Happiness-2014-2025-Analysis/blob/main/7.png
 
 ---
 
